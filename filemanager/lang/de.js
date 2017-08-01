@@ -74,7 +74,7 @@ theUILang.fDiagConsole	= 'Konsole';
 
 theUILang.fDiagMove		= 'Verschiebe Datein und Verzeichnis';
 theUILang.fDiagMoveSel	= 'Dateien markiert zum Verschieben:';
-theUILang.fDiagMoveTo	= 'Verschieben Dateien nach:';
+theUILang.fDiagMoveTo	= 'Verschiebe Dateien nach:';
 theUILang.fDiagMoveEmpty	= 'Bitte wählen Sie das Zielverzeichnis';
 theUILang.fDiagMoveFalse	= 'Pfad nicht gestattet';
 
@@ -119,10 +119,10 @@ theUILang.fStarts = {
 	Extract:	'Archive entpacken gestartet',
 	CArchive: 	'Datei archivieren gestartet',
 	CheckSFV: 	'SFV überprüfen gestartet',
-	CreateSFV:	'SFV prüfen gestartet',
+	CreateSFV:	'SFV erstellen gestartet',
 	Move:		'Datei verschieben gestartet',
 	Copy:		'Datei kopieren gestartet',
-	Screenshots: 	'Video screenshots creation started. Please wait this could take some time'
+	Screenshots: 	'Video Screenshots Erstellen gestartet. Bitte warten, das kann dauern...'
 }
 
 theUILang.fStops = { 
@@ -130,9 +130,9 @@ theUILang.fStops = {
 	Extract:	'Archive entpacken gestoppt',
 	CArchive: 	'Datei archivieren gestoppt',
 	CheckSFV: 	'SFV überprüfen gestoppt',
-	CreateSFV:	'SFV prüfen gestoppt',
+	CreateSFV:	'SFV erstellen gestoppt',
 	Move:		'Datei verschieben gestoppt',
 	Copy:		'Datei kopieren gestoppt',
-	Screenshots: 	'Video screenshots creation stopped'
+	Screenshots: 	'Video Screenshots Erstellen gestoppt'
 }
 
